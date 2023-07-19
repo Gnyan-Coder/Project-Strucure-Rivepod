@@ -12,7 +12,7 @@ lib--src--
 
                                  |--domain--|--
 
-                                 |
+          |--res---|--constant--|(1)app_color.dart(2)app_url.dart
 
                                  
                                                   
